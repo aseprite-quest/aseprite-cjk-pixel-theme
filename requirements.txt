@@ -1,4 +1,4 @@
 httpx==0.28.1
-fonttools==4.55.3
+fonttools==4.55.4
 pypng==0.20220715.0
 Markdown==3.7
